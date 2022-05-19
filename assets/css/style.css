@@ -1,0 +1,14 @@
+body {
+    background-color: bisque;
+    margin: o;
+}
+header{
+    display: flex;
+    justify-content: center;
+    height: 50;
+    background-color: blueviolet;
+}
+.navigation{
+    margin-left: 15%;
+    list-style: none;
+}
